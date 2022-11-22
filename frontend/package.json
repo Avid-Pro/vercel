@@ -40,7 +40,7 @@
 		"jalali-moment": "^3.3.7",
 		"lodash": "^4.17.15",
 		"module-alias": "^2.2.2",
-		"next": "^9.3.6",
+		"next": "^13.0.4",
 		"next-transpile-modules": "^2.3.1",
 		"polished": "^3.6.2",
 		"prop-types": "^15.7.2",
@@ -52,7 +52,7 @@
 		"react-swipeable-views": "^0.13.9",
 		"store": "^2.0.12",
 		"styled-components": "^4.4.1",
-		"styled-jsx": "^3.2.2",
+		"styled-jsx": "^5.1.0",
 		"txt-reader": "^1.4.5",
 		"typeface-roboto": "^0.0.75"
 	},
